@@ -1,3 +1,9 @@
 .cabecera {
   background-color: bisque;
 }
+
+.temperatura {
+  background-color: orange;
+  padding: 5px;
+  font-size: 1.5em;
+}
